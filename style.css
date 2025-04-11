@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&family=Underdog&display=swap" rel="stylesheet');
 
 :root {
     --azul-claro: #7dade3;
@@ -10,7 +10,7 @@
 
 body {
     font-size: 1rem;
-    font-family: 'Montserrat';
+    font-family: 'Underdog';
 }
 
 header {
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/fundo\ roxo.jpeg';
+    background-image: url('img/fundo-roxo.jpeg';
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -96,7 +96,7 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'National-park', serif;
     font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
@@ -188,7 +188,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #Pierce the Veil {
     background: none;
 }
 
